@@ -8,40 +8,62 @@ Merci de participer au programme de test de Spid ! Vous faites partie des **150 
 
 ## 📥 Télécharger Spid
 
-### Android (APK)
-👉 **[Télécharger la dernière version](https://github.com/spidfntech/spid-releases/releases/latest)**
+## 📥 TÉLÉCHARGER SPID (ANDROID)
 
-### iOS
-👉 **TestFlight** *(bientôt disponible)*
+### ➡️ [CLIQUEZ ICI POUR TÉLÉCHARGER](https://github.com/spidfntech/spid-releases/releases/latest/download/app-release.apk)
 
-## 📱 Installation (Android)
+**OU**
 
-### Étape 1 : Télécharger
-Cliquez sur le lien ci-dessus et téléchargez le fichier APK
+### ➡️ [Voir toutes les versions](https://github.com/spidfntech/spid-releases/releases/latest)
 
-### Étape 2 : Autoriser l'installation
-1. Ouvrez **Paramètres** sur votre téléphone
-2. Allez dans **Sécurité** (ou **Confidentialité**)
-3. Activez **Sources inconnues** ou **Installer des apps inconnues**
-4. Sélectionnez votre navigateur et autorisez
+## 📱 COMMENT INSTALLER ? (3 étapes simples)
 
-### Étape 3 : Installer
-1. Ouvrez le fichier APK téléchargé
-2. Appuyez sur **Installer**
-3. Attendez la fin de l'installation
-4. Appuyez sur **Ouvrir**
+### ✅ Étape 1 : Télécharger
+- Cliquez sur le lien bleu ci-dessus
+- Le fichier `app-release.apk` va se télécharger
 
-## 💬 Feedback & Support
+### ✅ Étape 2 : Autoriser l'installation
 
-### 🐛 Signaler un Bug
-Créez une [Issue](https://github.com/spidfntech/spid-releases/issues/new)
+Votre téléphone va vous demander d'autoriser l'installation :
 
-### 📧 Contact
-Email: spid.fntech@gmail.com
+1. Ouvrez **Paramètres** de votre téléphone
+2. Cherchez **Sécurité** (ou **Applications**)
+3. Activez **"Installer des applications inconnues"**
+4. Sélectionnez votre navigateur (Chrome, Firefox...) et autorisez
 
-## ⚠️ Important
+> 💡 **Astuce** : Sur certains téléphones, il suffit de cliquer sur "Autoriser" quand le message apparaît !
 
-Cette version est une **BETA** destinée aux tests. Certaines fonctionnalités peuvent ne pas fonctionner parfaitement. Merci de votre compréhension !
+### ✅ Étape 3 : Installer
+
+1. Trouvez le fichier téléchargé (dans "Téléchargements")
+2. Appuyez dessus
+3. Appuyez sur **"Installer"**
+4. Attendez 10 secondes
+5. Appuyez sur **"Ouvrir"**
+
+---
+
+## 💬 BESOIN D'AIDE ?
+
+### 🐛 Vous avez trouvé un bug ?
+➡️ [Cliquez ici pour le signaler](https://github.com/spidfntech/spid-releases/issues/new)
+
+### 💡 Une suggestion ?
+- ➡️ Écrivez-nous : **contact@spid.africa** Ou **spid.fntech@gmail.com**
+---
+## 🔄 MISES À JOUR
+
+Quand une nouvelle version sort, on vous prévient !
+
+Vous n'aurez qu'à revenir sur cette page et re-télécharger.
+
+**Dernière version :** v1.0.0 - Première beta
+
+---
+## ⚠️ À SAVOIR
+
+✅ Certaines fonctionnalités peuvent avoir des bugs  
+✅ Vos retours nous aident à améliorer l'app  
 
 ---
 
