@@ -6,8 +6,6 @@
 
 Merci de participer au programme de test de Spid ! Vous faites partie des **150 testeurs privilégiés** qui découvrent l'application en avant-première.
 
-## 📥 Télécharger Spid
-
 ## 📥 TÉLÉCHARGER SPID (ANDROID)
 
 ### ➡️ [CLIQUEZ ICI POUR TÉLÉCHARGER](https://github.com/spidfntech/spid-releases/releases/latest/download/app-release.apk)
@@ -16,7 +14,9 @@ Merci de participer au programme de test de Spid ! Vous faites partie des **150 
 
 ### ➡️ [Voir toutes les versions](https://github.com/spidfntech/spid-releases/releases/latest)
 
+
 ## 📱 COMMENT INSTALLER ? (3 étapes simples)
+
 
 ### ✅ Étape 1 : Télécharger
 - Cliquez sur le lien bleu ci-dessus
@@ -43,14 +43,14 @@ Votre téléphone va vous demander d'autoriser l'installation :
 
 ---
 
-## 💬 BESOIN D'AIDE ?
-
 ### 🐛 Vous avez trouvé un bug ?
 ➡️ [Cliquez ici pour le signaler](https://github.com/spidfntech/spid-releases/issues/new)
 
 ### 💡 Une suggestion ?
 - ➡️ Écrivez-nous : **contact@spid.africa** Ou **spid.fntech@gmail.com**
+  
 ---
+
 ## 🔄 MISES À JOUR
 
 Quand une nouvelle version sort, on vous prévient !
@@ -60,6 +60,7 @@ Vous n'aurez qu'à revenir sur cette page et re-télécharger.
 **Dernière version :** v1.0.0 - Première beta
 
 ---
+
 ## ⚠️ À SAVOIR
 
 ✅ Certaines fonctionnalités peuvent avoir des bugs  
