@@ -6,7 +6,7 @@ Merci de participer au programme de test de Spid ! Vous faites partie des **150 
 
 ## 📥 TÉLÉCHARGER SPID (ANDROID)
 
-### ➡️ [CLIQUEZ ICI POUR TÉLÉCHARGER](https://github.com/spidfntech/spid-releases/releases/latest/download/app-release.apk)
+### ➡️ [CLIQUEZ ICI POUR TÉLÉCHARGER](https://github.com/spidfntech/spid-releases/releases/download/v1.0.0/app-prod-release.apk)
 
 **OU**
 
